@@ -27,7 +27,9 @@
 4. Load 버튼을 통해 이전에 저장된 맵을 불러올 수 있다.
 5. Save 버튼을 통해 현재 맵을 새로운 이름으로 저장할 수 있다.(이름은 자동으로 123 번호를 매겨서 .txt 형식으로 저장된다.)
 
-2️⃣ Helicopter Game
+
+
+## 2️⃣ Helicopter Game
 
 1. 횡스크롤 맵 이동
 
@@ -158,4 +160,6 @@ void createScene(T* newscene)
 	sceneinbuild.push_back((Scene*)newscene);
 }
 ```
+
+![Video🎞](https://www.youtube.com/watch?v=vZtGq6ucDGI)
 
